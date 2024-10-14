@@ -5,6 +5,7 @@
   "browserslist": "> 0.25%",
   "devDependencies": {
     "@babel/cli": "^7.25.7",
-    "@babel/core": "^7.25.7"
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.8"
   }
 }
